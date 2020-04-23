@@ -47,6 +47,6 @@
       <artifactId>jsp-api</artifactId>
       <scope>provided</scope>
     </dependency>
-  </dependencies>
+  </dependencies> 
 
 </project>
